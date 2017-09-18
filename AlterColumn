@@ -1,0 +1,2 @@
+ALTER TABLE dbo.tableName 
+ALTER COLUMN code NVARCHAR(20)
